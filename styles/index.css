@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+body{
+    text-align: center;
+    margin: 0px;
+}
+
+.centro {
+    margin-top: 100px;
+    width: 600px;
+    height:600px;
+    position: relative;
+    background-color: rgb(92, 179, 45);
+    font-family: 'Bungee-spiced';
+    display:inline-block;
+}
+
+.lista {
+    list-style:none;
+    font-size: 30px;
+    font: bold;
+}
+
+#caja {
+    width: 300px;
+    border-radius: 10px;
+}
+
